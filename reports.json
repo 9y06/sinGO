@@ -1,0 +1,32 @@
+[
+    {
+        "description": "1학년 2반 2번의 사물함이 열리지 않습니다.",
+        "date": "2024-06-21 21:43:47",
+        "resolved": true
+    },
+    {
+        "description": "남기숙사에서 바퀴벌레가 나왔습니다.",
+        "date": "2024-06-21 21:46:25",
+        "resolved": false
+    },
+    {
+        "description": "실습동 1층 유리창이깨졌어요",
+        "date": "2024-06-21 21:46:37",
+        "resolved": false
+    },
+    {
+        "description": "여자 화장실에 불이 안들어와요",
+        "date": "2024-06-21 22:21:44",
+        "resolved": false
+    },
+    {
+        "description": "1학년 2반 문이 고장났어요",
+        "date": "2024-06-21 22:57:53",
+        "resolved": false
+    },
+    {
+        "description": "기숙사가 벌레가 많아요",
+        "date": "2024-06-26 13:38:54",
+        "resolved": false
+    }
+]
